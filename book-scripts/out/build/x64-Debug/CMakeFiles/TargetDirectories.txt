@@ -1,0 +1,3 @@
+C:/Users/hedgr_v6euno5/OneDrive/Desktop/book-scripts/out/build/x64-Debug/CMakeFiles/book_scripts.dir
+C:/Users/hedgr_v6euno5/OneDrive/Desktop/book-scripts/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/hedgr_v6euno5/OneDrive/Desktop/book-scripts/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
